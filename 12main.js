@@ -9,8 +9,8 @@ for(let i = 0 ; 0 == 3; ++i){
 
 
 if(password === 123) ;
-console.log("Correcto") 
-   else if (password) '!=' (123) ; {
+console.log("Correcto");  
+    else { (password) != (123) ; 
     console.log("No es correcto");
 }
 
