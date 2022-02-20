@@ -17,8 +17,11 @@ console.log(letras.lenght);
 var newLength = letra.push(4);
 */    
 
-/*let i = (letra1 + numero) , (letra2 + numero);*/
+/*
+let i = (letra1 + numero) , (letra2 + numero);
+*/
 
 
 /*
-Concatenar dos Arrays A y B de la siguiente forma: A0, B0, A1, B1, A2, B2, ...An, Bn,. Los vectores tendrán la misma longiotud*/
+Concatenar dos Arrays A y B de la siguiente forma: A0, B0, A1, B1, A2, B2, ...An, Bn,. Los vectores tendrán la misma longiotud
+*/
